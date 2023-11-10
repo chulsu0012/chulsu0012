@@ -32,10 +32,10 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
-        <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&Color=E1BD79"> 
+        <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&color=E1BD79"> 
     </a>
     <a href="https://shrub-browser-5db.notion.site/bda61d202aff46e68268c42e89413864?pvs=4">
-        <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79"> 
+        <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79"> 
     </a>
 </div><br>
 
@@ -45,7 +45,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://shrub-browser-5db.notion.site/a077385ec63f44d4a21bb48e9a209e9b?v=41db770d4bd74e8ca32a46321309f60b&pvs=4">
-        <img src="https://img.shields.io/badge/ALGORITHM-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79">
+        <img src="https://img.shields.io/badge/ALGORITHM-black?style=for-the-badge&logo=Notion&logoColor=E1BD79">
     </a>
 </div><br>
 
