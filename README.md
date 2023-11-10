@@ -32,7 +32,7 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
-        <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79"> 
+        <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&Color=E1BD79"> 
     </a>
     <a href="https://shrub-browser-5db.notion.site/bda61d202aff46e68268c42e89413864?pvs=4">
         <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79"> 
@@ -51,5 +51,5 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://
 
 ## ✔ CONTACT
 <a href="mailto:chulsu0012@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-E1BD79?style=for-the-badge&logo=Gmail&logoColor=black"> 
+    <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=Gmail&logoColor=E1BD79"> 
 </a>
