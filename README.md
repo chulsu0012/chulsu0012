@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&theme=onedark&height=300&section=header&text=HI%20THERE💻&desc=This%20is%20Chulsu0012's%20Github&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&theme=onedark&height=300&section=header&text=HI%20THERE💻&desc=This%20is%20chulsu0012's%20Github&fontSize=50&animation=twinkling)
 
 ## ✔ AVAILABLE
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
