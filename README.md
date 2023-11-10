@@ -42,18 +42,13 @@
     <p><strong>STUDY</strong></p>
     <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
         <img src="https://img.shields.io/badge/
-        Notion-282C34?style=for-the-badge&logo=Study&logoColor=E1BD79"> 
+        Study-282C34?style=for-the-badge&logo=Study&logoColor=E1BD79"> 
     </a>
     <p><strong>PROJECT</strong></p>
     <a href="https://shrub-browser-5db.notion.site/bda61d202aff46e68268c42e89413864?pvs=4">
         <img src="https://img.shields.io/badge/
-        Notion-282C34?style=for-the-badge&logo=Project&logoColor=E1BD79"> 
+        Project-282C34?style=for-the-badge&logo=Project&logoColor=E1BD79"> 
     </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 </div><br>
 
 ## ✔ BOJ
