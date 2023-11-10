@@ -31,27 +31,25 @@
 ![Chulsu0012's GitHub stats](https://github-readme-stats.vercel.app/api?username=chulsu0012&show_icons=true&theme=onedark)
 
 <div style="display:flex; flex-direction:row;">
-    <p><strong>STUDY</strong></p>
     <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
-        <img src="https://img.shields.io/badge/Study-E1BD79?style=for-the-badge&logo=Notion&Color=black"> 
+        <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79"> 
     </a>
-    <p><strong>PROJECT</strong></p>
     <a href="https://shrub-browser-5db.notion.site/bda61d202aff46e68268c42e89413864?pvs=4">
-        <img src="https://img.shields.io/badge/Project-E1BD79?style=for-the-badge&logo=Notion&logoColor=black"> 
+        <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79"> 
     </a>
 </div><br>
 
-## ✔ BOJ
+## ✔ ALGORITHM
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://solved.ac/chulsu0123)
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://shrub-browser-5db.notion.site/a077385ec63f44d4a21bb48e9a209e9b?v=41db770d4bd74e8ca32a46321309f60b&pvs=4">
-        <img src="https://img.shields.io/badge/Algorithm-E1BD79?style=for-the-badge&logo=Notion&logoColor=black">
+        <img src="https://img.shields.io/badge/ALGORITHM-black?style=for-the-badge&logo=Notion&logoColor=E1BD79&Color=E1BD79">
     </a>
 </div><br>
 
 ## ✔ CONTACT
 <a href="mailto:chulsu0012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E1BD79?style=for-the-badge&logo=Gmail&logoColor=black"> 
+    <img src="https://img.shields.io/badge/GMAIL-E1BD79?style=for-the-badge&logo=Gmail&logoColor=black"> 
 </a>
