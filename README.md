@@ -2,7 +2,7 @@
 
 ## ✔ AVAILABLE
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <p><strong>Languages</strong></p>
+    <p><strong>LANGUAGES</strong></p>
     <div>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -29,7 +29,7 @@
 
 ## ✔ CONTACT
 <div style="display:flex; flex-direction:row;">
-    <a href="chulsu0012@gmail.com">
+    <a href="mailto:chulsu0012@gmail.com">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
