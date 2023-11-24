@@ -34,7 +34,7 @@
     <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
         <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&logoColor=E1BD79"> 
     </a>
-    <span/>
+    <span></span>
     <a href="https://shrub-browser-5db.notion.site/bda61d202aff46e68268c42e89413864?pvs=4">
         <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79"> 
     </a>
