@@ -48,7 +48,7 @@
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://solved.ac/chulsu0123)
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://shrub-browser-5db.notion.site/a077385ec63f44d4a21bb48e9a209e9b?v=41db770d4bd74e8ca32a46321309f60b&pvs=4">
+    <a href="https://shrub-browser-5db.notion.site/27958c8587884a619165781737dacc35?pvs=4">
         <img src="https://img.shields.io/badge/ALGORITHM-black?style=for-the-badge&logo=Notion&logoColor=E1BD79">
     </a>
 </div><br>
