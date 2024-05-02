@@ -32,11 +32,6 @@
 
 <div style="display:flex; flex-direction:row;">
     <span>
-        <a href="https://shrub-browser-5db.notion.site/715009c0737e486a9c577507937f4717?pvs=4">
-            <img src="https://img.shields.io/badge/STUDY-black?style=for-the-badge&logo=Notion&logoColor=E1BD79"> 
-        </a>
-    </span>
-    <span>
         <a href="https://shrub-browser-5db.notion.site/f5b55662379e4643a37b843b0093d57d?v=52ba1a5f43ca46ba92733080445b2f40">
             <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=E1BD79"> 
         </a>
