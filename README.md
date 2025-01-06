@@ -1,18 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&theme=merko&height=300&section=header&text=HELLO%20WORLD🍏&desc=Welcome%20to%20Jiyeon's%20GitHub&fontSize=50&animation=twinkling)
 
 ## 🍏 chulsu0012
-<a href="">
-  <img src="https://img.shields.io/badge/alogithm-black?style=for-the-badge&logo=Notion&logoColor=green">
-</a>
-<a href="https://shrub-browser-5db.notion.site/f5b55662379e4643a37b843b0093d57d?v=52ba1a5f43ca46ba92733080445b2f40">
-  <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=green">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/résumé-black?style=for-the-badge&logo=github pages&logoColor=green">
-</a>
-<a href="mailto:chulsu0012@gmail.com">
+<span>
+  <a href="">
+    <img src="https://img.shields.io/badge/alogithm-black?style=for-the-badge&logo=Notion&logoColor=green">
+  </a>
+</span>
+<span>
+  <a href="https://shrub-browser-5db.notion.site/f5b55662379e4643a37b843b0093d57d?v=52ba1a5f43ca46ba92733080445b2f40">
+    <img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=green">
+  </a>
+</span>
+<span>
+  <a href="">
+    <img src="https://img.shields.io/badge/résumé-black?style=for-the-badge&logo=github pages&logoColor=green">
+  </a>
+</span>
+<span>
+  <a href="mailto:chulsu0012@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=Gmail&logoColor=green"> 
-</a>
+  </a>
+</span>
 
 ## 🍏 AVAILABLE
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
