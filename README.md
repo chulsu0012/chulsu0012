@@ -33,6 +33,4 @@
 </div><br>
 
 ## 🍏 LOG
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&theme=merko&username=chulsu0012&layout=donut)](https://github.com/chulsu0012/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://solved.ac/chulsu0123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&theme=merko&username=chulsu0012&layout=compact)](https://github.com/chulsu0012/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123)](https://solved.ac/chulsu0123)
