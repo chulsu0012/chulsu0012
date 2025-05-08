@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&theme=merko&height=300&section=header&text=HELLO%20WORLD🍏&desc=Welcome%20to%20Jiyeon's%20GitHub&fontSize=50&animation=twinkling)
 
 ## 🍏 chulsu0012
-<a href=""><img src="https://img.shields.io/badge/alogithm-black?style=for-the-badge&logo=Notion&logoColor=green"></a>
+<a href="https://shrub-browser-5db.notion.site/6bf292fa19b84a6d9cb60c9281fa8bf9?pvs=74"><img src="https://img.shields.io/badge/alogithm-black?style=for-the-badge&logo=Notion&logoColor=green"></a>
 <a href="https://shrub-browser-5db.notion.site/f5b55662379e4643a37b843b0093d57d?v=52ba1a5f43ca46ba92733080445b2f40"><img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=green"></a>
 
 ## 🍏 AVAILABLE
