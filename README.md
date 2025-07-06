@@ -39,7 +39,7 @@
 
 ## 🍏 LOG
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=chulsu0012&show_icons=true&theme=merko" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chulsu0012&theme=merko&show_icons=true" alt="GitHub Stats" />
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chulsu0123" alt="Solved.ac Profile" />
 </div>
