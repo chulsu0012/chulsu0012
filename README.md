@@ -8,9 +8,9 @@
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>LANGUAGE</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     </div><br>
     <p><strong>FRONTEND STACK</strong></p>
     <div>
@@ -18,22 +18,25 @@
         <img src="https://img.shields.io/badge/Vite-8B77E6?style=flat-square&logo=Vite&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white">
     </div><br/>
     <p><strong>BACKEND STACK</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
         <img src="https://img.shields.io/badge/Swagger-73942C?style=flat-square&logo=Swagger&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/Redis-C13D30?style=flat-square&logo=Redis&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-C13D30?style=flat-square&logo=Redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white">
      </div><br>
     <p><strong>Tool</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-E44940?style=flat-square&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
      </div>
 </div><br>
 
