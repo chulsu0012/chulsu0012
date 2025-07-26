@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&theme=merko&height=300&section=header&text=HELLO%20WORLD🍏&desc=Welcome%20to%20Jiyeon's%20GitHub&fontSize=50&animation=twinkling)
 
 ## 🍏 chulsu0012
-<a href="https://shrub-browser-5db.notion.site/6bf292fa19b84a6d9cb60c9281fa8bf9?pvs=74"><img src="https://img.shields.io/badge/alogithm-black?style=for-the-badge&logo=Notion&logoColor=green"></a>
-<a href="https://shrub-browser-5db.notion.site/f5b55662379e4643a37b843b0093d57d?v=52ba1a5f43ca46ba92733080445b2f40"><img src="https://img.shields.io/badge/PROJECT-black?style=for-the-badge&logo=Notion&logoColor=green"></a>
 - 사용자에게 항상 안정적인 서비스 사용 환경을 제공하고 싶은 백엔드 엔지니어, 서강대학교 홍지연입니다.
 - 6개의 팀 개발 프로젝트를 진행하였고, 5개의 프로젝트에서 풀스택 및 백엔드 업무를 처리하였습니다.
 - 100명 이상의 사용자를 유치한 서비스를 2번 배포 및 운영보수한 경험을 가지고 있습니다.
